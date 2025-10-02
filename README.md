@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="width:20px,heigth:50px, background: #ffffff">
+<div style="width:20 px,heigth:50 px, background: #ffffff">
 <!--
 **JulianGordillo24/JulianGordillo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
