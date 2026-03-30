@@ -5,15 +5,14 @@
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Julian David Gordillo Salazar</h1>
-<p align="center"><i>Analista III | Apasionado por el desarrollo frontend con React y backend con Node + TypeScript</i></p>
+<p align="center"><i> Apasionado por el desarrollo frontend con Angular y backend con Node + TypeScript</i></p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎯 Actualmente aprendiendo **React** y conectando APIs con **Express + TypeScript**
+- 🎯 Actualmente aprendiendo **Angular** y conectando APIs con **Express + TypeScript**
 - 🏆 Ganador del primer lugar en **#Hackaprompt** como parte de **#InnovadoresPorEsencIA**
-- 💼 Colaborando con: Mercy Johana Maldonado, María Paula Pinzón, Emerson Felipe Guerrero, Camilo Andrés Muñoz
 - 🧠 Me encanta explorar nuevas tecnologías y aplicar IA en escenarios reales
 
 ---
