@@ -20,6 +20,6 @@
 ## 🛠️ Tecnologías y herramientas
 
 
-<code><img height="25" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></code>
+<code><img height="25" src="https://img.shields.io/badge/Angular-20232A?style=flat&logo=angular&logoColor=61DAFB" /></code>
 <code><img height="25" src="https://img.shields.io/badge/Node.jsdedotjs&logoColor=white" /></code>
 <code><img height="25" src="https://img.shields.io/badge/TypeScript-007ACCt&logoColor=white" /></code>
